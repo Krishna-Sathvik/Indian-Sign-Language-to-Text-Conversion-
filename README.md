@@ -64,6 +64,9 @@ to create an efficient gesture-to-text conversion system.
 * Classes: Multiple ISL Alphabets/Gestures
 * Image Format: Grayscale/RGB Gesture Images
 
+### Dataset Source
+* Dataset Link : https://www.kaggle.com/datasets/kartik2112/indian-sign-language-translation-letters-n-digits
+
 ### Data Preprocessing
 
 The preprocessing pipeline includes:
